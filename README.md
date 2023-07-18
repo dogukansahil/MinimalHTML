@@ -1,8 +1,6 @@
-# Web Theme
+# Minimal HTML
 
 This project contains a customizable web theme. The theme features a modern and stylish design suitable for various web projects.
-
-## Minimal HTML
 
 - User-friendly and visually appealing interface
 - Flexible and customizable theme structure
