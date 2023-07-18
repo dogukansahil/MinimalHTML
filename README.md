@@ -8,6 +8,7 @@ This project contains a customizable web theme. The theme features a modern and 
 - Flexible and customizable theme structure
 - AI-generated images with CC0 license
 - Utilizes Font Awesome icon library
+- Built-in Dark mode feature
 
 ![Demo](https://github.com/dogukansahil/MinimalHTML/blob/main/Minimal%20HTML/DemoPhotos/1.png?raw=true)
 ![Demo](https://github.com/dogukansahil/MinimalHTML/blob/main/Minimal%20HTML/DemoPhotos/2.png?raw=true)
